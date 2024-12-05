@@ -1,0 +1,92 @@
+assets/images/waiting/waiting_imageX.jpg:
+https://www.flaticon.com/free-animated-icon/turntable_13121478
+
+assets/tracks/track1.mp3:
+Song: Cartoon, Jéja - On & On (feat. Daniel Levi) [NCS Release]
+Music provided by NoCopyrightSounds
+Free Download/Stream: http://ncs.io/onandon
+Watch: http://youtu.be/K4DyBUG242c
+
+assets/tracks/track2.mp3:
+Song: Syn Cole - Feel Good [NCS Release]
+Music provided by NoCopyrightSounds
+Free Download/Stream: http://ncs.io/feelgood
+Watch: http://youtu.be/q1ULJ92aldE
+
+assets/tracks/track3.mp3:
+Song: Lensko - Let's Go! [NCS Release]
+Music provided by NoCopyrightSounds
+Free Download/Stream: http://ncs.io/letsgo
+Watch: http://youtu.be/mSLuJYtl89Y
+
+assets/tracks/track4.mp3:
+Song: DEAF KEV - Invincible [NCS Release]
+Music provided by NoCopyrightSounds
+Free Download/Stream: http://ncs.io/invincible
+Watch: http://youtu.be/J2X5mJ3HDYE
+
+assets/tracks/track5.mp3:
+Song: C1W - Driver Seat [NCS Release]
+Music provided by NoCopyrightSounds
+Free Download/Stream: http://ncs.io/driverseat
+Watch: http://ncs.lnk.to/driverseatAT/youtube
+
+assets/tracks/track6.mp3:
+Song: springs! - Magnetic [NCS Release]
+Music provided by NoCopyrightSounds
+Free Download/Stream: http://ncs.io/Magnetic
+Watch: http://ncs.lnk.to/MagneticAT/youtube
+
+assets/tracks/track7.mp3:
+Song: Low Mileage - Keep Me Closer [NCS Release]
+Music provided by NoCopyrightSounds
+Free Download/Stream: http://ncs.io/keepmecloser
+Watch: http://ncs.lnk.to/keepmecloserAT/youtube
+
+assets/tracks/track8.mp3:
+Song: Sam Day - BE THE ONE [NCS Release]
+Music provided by NoCopyrightSounds
+Free Download/Stream: http://ncs.ioBeTheOne
+Watch: http://ncs.lnk.toBeTheOneAT/youtube
+
+assets/tracks/track9.mp3:
+Song: Sam Day - Nothing To Hide [NCS Release]
+Music provided by NoCopyrightSounds
+Free Download/Stream: http://NCS.io/NothingToHide
+Watch: http://youtu.be/1cELFGPVByU
+
+assets/tracks/track10.mp3:
+Song: KHEMIS, Coopex, ZANA - Tidal Wave [NCS Release]
+Music provided by NoCopyrightSounds
+Free Download/Stream: http://ncs.io/TIdalWave
+Watch: http://ncs.lnk.to/TIdalWaveAT/youtube
+
+assets/images/track_image1.jpg:
+https://soundcloud.com/nocopyrightsounds/cartoon-on-on-ft-daniel-levi-ncs-release
+
+assets/images/track_image2.jpg:
+https://soundcloud.com/nocopyrightsounds/syn-cole-feelgood-ncs-release
+
+assets/images/track_image3.jpg:
+https://soundcloud.com/nocopyrightsounds/lensko-lets-go-ncs-release
+
+assets/images/track_image4.jpg:
+https://soundcloud.com/nocopyrightsounds/deaf-kev-invincible-ncs-release
+
+assets/images/track_image5.jpg:
+https://soundcloud.com/nocopyrightsounds/c1w-driver-seat-ncs-release
+
+assets/images/track_image6.jpg:
+https://soundcloud.com/nocopyrightsounds/springs-magnetic-ncs-release
+
+assets/images/track_image7.jpg:
+https://soundcloud.com/nocopyrightsounds/low-mileage-keep-me-closer-ncs-release
+
+assets/images/track_image8.jpg:
+https://soundcloud.com/nocopyrightsounds/sam-day-be-the-one-ncs-release
+
+assets/images/track_image9.jpg:
+https://soundcloud.com/nocopyrightsounds/sam-day-nothing-to-hide-ncs-release
+
+assets/images/track_image10.jpg:
+https://soundcloud.com/nocopyrightsounds/khemis-coopex-zana-tidal-wave-ncs-release
